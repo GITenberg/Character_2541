@@ -1,0 +1,36 @@
+_repo: Character_2541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: 'I. Influence of character : Character a great power in the world ; Common
+  duty ; Character above learning and wealth ; Character a property ; Honesty of character
+  ; Principles ; Reliableness ; Practical wisdom ; Sheridan and Burke ; Character
+  and circumstances ; Formation of character ; The late prince consort ; Force of
+  character ; The conscientious man ; The quality of reverence ; Intrepidy of character
+  ; Lord Palmerston ; Contagiousness of energy ; The Napiers and Sir John Moore ;
+  Washington, wellington ; Influence of personal character ; Reverence for great men
+  ; Luther, Knox, Dante ; Character a great legacy ; Character of nations ; Washington
+  Irving and Sir Walter Scott ; Character and freedom ; Nations strengthened by trials
+  ; Noble and ignoble patriotism ; Decline and fall of nations ; Stability of character
+  of nations'
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character'
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+- GITenberg
+title: Character
+url: http://www.gutenberg.org/ebooks/2541
